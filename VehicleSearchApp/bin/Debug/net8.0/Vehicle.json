@@ -1,0 +1,20 @@
+[
+  {
+    "VehicleId": 1,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "YearModelId": 2020
+  },
+  {
+    "VehicleId": 2,
+    "Make": "Ford",
+    "Model": "F-150",
+    "YearModelId": 2019
+  },
+  {
+    "VehicleId": 3,
+    "Make": "Ford",
+    "Model": "F-150",
+    "YearModelId": 2019
+  }
+]

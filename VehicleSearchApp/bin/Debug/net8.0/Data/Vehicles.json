@@ -1,0 +1,39 @@
+[
+    {
+      "VehicleId": 1,
+      "Make": "Toyota",
+      "Model": "Corolla",
+      "YearModelId": 2020,
+      "Engine": "1.8L",
+      "TransmissionId": "Automatic",
+      "VehicleDifferential": "Standard"
+    },
+    {
+      "VehicleId": 2,
+      "Make": "Ford",
+      "Model": "F-150",
+      "YearModelId": 2019,
+      "Engine": "3.5L V6",
+      "TransmissionId": "Manual",
+      "VehicleDifferential": "Heavy Duty"
+    },
+    {
+      "VehicleId": 3,
+      "Make": "Ford",
+      "Model": "F-150",
+      "YearModelId": 2019,
+      "Engine": "3.5L V6",
+      "TransmissionId": "Manual",
+      "VehicleDifferential": "Heavy Duty"
+    },
+    {
+      "VehicleId": 4,
+      "Make": "Ford",
+      "Model": "F-150",
+      "YearModelId": 2019,
+      "Engine": "3.5L V6",
+      "TransmissionId": "Manual",
+      "VehicleDifferential": "Heavy Duty"
+    }
+  ]
+  

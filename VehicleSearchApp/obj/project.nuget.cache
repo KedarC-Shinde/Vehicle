@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z7XqgzSXDaM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\keduk\\Desktop\\SearchVehicle Model\\VehicleSearchApp\\VehicleSearchApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\keduk\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

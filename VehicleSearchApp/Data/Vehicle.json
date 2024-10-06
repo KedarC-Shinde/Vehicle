@@ -1,0 +1,74 @@
+[
+  {
+    "VehicleId": 1,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "YearModelId": 2020,
+    "Engine": "1.8L",
+    "TransmissionId": "Automatic",
+    "VehicleDifferential": "Standard"
+  },
+  {
+    "VehicleId": 2,
+    "Make": "Ford",
+    "Model": "F-150",
+    "YearModelId": 2019,
+    "Engine": "3.5L V6",
+    "TransmissionId": "Manual",
+    "VehicleDifferential": "Heavy Duty"
+  },
+  {
+    "VehicleId": 3,
+    "Make": "Maruti",
+    "Model": "Swift Dezire",
+    "YearModelId": 2018,
+    "Engine": "1.5L V5",
+    "TransmissionId": "Manual",
+    "VehicleDifferential": "Heavy Duty"
+  },
+  {
+    "VehicleId": 4,
+    "Make": "Hyundai",
+    "Model": "Nios-I10",
+    "YearModelId": 2019,
+    "Engine": "3.5L V6",
+    "TransmissionId": "Manual",
+    "VehicleDifferential": "Heavy Duty"
+  },
+  {
+    "VehicleId": 5,
+    "Make": "Mahindra",
+    "Model": "Xylo",
+    "YearModelId": 2019,
+    "Engine": "3.5L V6",
+    "TransmissionId": "Manual",
+    "VehicleDifferential": "Heavy Duty"
+  },
+  {
+    "VehicleId": 6,
+    "Make": "Tata",
+    "Model": "Nexon ev",
+    "YearModelId": 2022,
+    "Engine": "3.5L V6",
+    "TransmissionId": "Manual",
+    "VehicleDifferential": "Heavy Duty"
+  },
+  {
+    "VehicleId": 7,
+    "Make": "Kia",
+    "Model": "Kia EV9",
+    "YearModelId": 2019,
+    "Engine": "3.5L V6",
+    "TransmissionId": "Manual",
+    "VehicleDifferential": "Heavy Duty"
+  },
+  {
+    "VehicleId": 8,
+    "Make": "Mercedes",
+    "Model": "Benz E",
+    "YearModelId": 2019,
+    "Engine": "3.5L V6",
+    "TransmissionId": "Manual",
+    "VehicleDifferential": "Heavy Duty"
+  }
+]
